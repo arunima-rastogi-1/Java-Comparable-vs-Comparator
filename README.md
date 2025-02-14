@@ -19,7 +19,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository  
 ```sh
-git clone https://github.com/your-username/Java-Comparable-vs-Comparator.git
+git clone https://github.com/arunima-rastogi-1/Java-Comparable-vs-Comparator.git
 cd Java-Comparable-vs-Comparator
 ```
 
